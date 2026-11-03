@@ -1,0 +1,152 @@
+[
+  {
+    "file": "khao-soi.webp",
+    "type": "AI-generated illustration",
+    "place": "ข้าวซอยนิมมาน",
+    "day": 1,
+    "tool": "built-in image_gen",
+    "note": "Interpretive illustration; not a photograph or exact architectural record.",
+    "prompt": "Landscape 3:2 gouache and fine ink travel illustration of ข้าวซอยนิมมาน; forest green, ochre and ivory palette; distinct destination composition; no text, logos or collage; clearly not a photograph.",
+    "sha256": "f6c8f32e0f2b452dd8f433628565d14500e0bcf53f11d109427dcf165742c0b7"
+  },
+  {
+    "file": "one-nimman.webp",
+    "type": "AI-generated illustration",
+    "place": "One Nimman",
+    "day": 1,
+    "tool": "built-in image_gen",
+    "note": "Interpretive illustration; not a photograph or exact architectural record.",
+    "prompt": "Landscape 3:2 gouache and fine ink travel illustration of One Nimman; forest green, ochre and ivory palette; distinct destination composition; no text, logos or collage; clearly not a photograph.",
+    "sha256": "631c7038e168b4ea5623b8681705aefd74eae5098984a212efe5e3e6f79e2078"
+  },
+  {
+    "file": "maya.webp",
+    "type": "AI-generated illustration",
+    "place": "MAYA",
+    "day": 1,
+    "tool": "built-in image_gen",
+    "note": "Interpretive illustration; not a photograph or exact architectural record.",
+    "prompt": "Landscape 3:2 gouache and fine ink travel illustration of MAYA; forest green, ochre and ivory palette; distinct destination composition; no text, logos or collage; clearly not a photograph.",
+    "sha256": "4c664eb0f20244a90d71fdc47d547f3c0593c754b24bef5d7a49963f11eab514"
+  },
+  {
+    "file": "mae-malai.webp",
+    "type": "AI-generated illustration",
+    "place": "ตลาดแม่มาลัย",
+    "day": 2,
+    "tool": "built-in image_gen",
+    "note": "Interpretive illustration; not a photograph or exact architectural record.",
+    "prompt": "Landscape 3:2 gouache and fine ink travel illustration of ตลาดแม่มาลัย; forest green, ochre and ivory palette; distinct destination composition; no text, logos or collage; clearly not a photograph.",
+    "sha256": "a5e219091df5ef2e59b7230f56c05e1c360ea5900ab166f6350f0dd28100c390"
+  },
+  {
+    "file": "mok-fa.webp",
+    "type": "AI-generated illustration",
+    "place": "น้ำตกหมอกฟ้า",
+    "day": 2,
+    "tool": "built-in image_gen",
+    "note": "Interpretive illustration; not a photograph or exact architectural record.",
+    "prompt": "Landscape 3:2 gouache and fine ink travel illustration of น้ำตกหมอกฟ้า; forest green, ochre and ivory palette; distinct destination composition; no text, logos or collage; clearly not a photograph.",
+    "sha256": "04b4ca7670ee0dde030d24570470ae06a42b3d95ae7b1265d78a419f244194f1"
+  },
+  {
+    "file": "pai-bridge.webp",
+    "type": "AI-generated illustration",
+    "place": "สะพานประวัติศาสตร์ท่าปาย",
+    "day": 2,
+    "tool": "built-in image_gen",
+    "note": "Interpretive illustration; not a photograph or exact architectural record.",
+    "prompt": "Landscape 3:2 gouache and fine ink travel illustration of สะพานประวัติศาสตร์ท่าปาย; forest green, ochre and ivory palette; distinct destination composition; no text, logos or collage; clearly not a photograph.",
+    "sha256": "1900a1e9326c414a6bfb584d453e5fde3112fdee3cefa6e0fb517265154dcb56"
+  },
+  {
+    "file": "pai-canyon.webp",
+    "type": "AI-generated illustration",
+    "place": "กองแลน · Pai Canyon",
+    "day": 2,
+    "tool": "built-in image_gen",
+    "note": "Interpretive illustration; not a photograph or exact architectural record.",
+    "prompt": "Landscape 3:2 gouache and fine ink travel illustration of กองแลน · Pai Canyon; forest green, ochre and ivory palette; distinct destination composition; no text, logos or collage; clearly not a photograph.",
+    "sha256": "2df7cda0ef3ff7547e81da144661a29912d218093a46200e5cc687acb3006d87"
+  },
+  {
+    "file": "pai-walking.webp",
+    "type": "AI-generated illustration",
+    "place": "ถนนคนเดินปาย",
+    "day": 2,
+    "tool": "built-in image_gen",
+    "note": "Interpretive illustration; not a photograph or exact architectural record.",
+    "prompt": "Landscape 3:2 gouache and fine ink travel illustration of ถนนคนเดินปาย; forest green, ochre and ivory palette; distinct destination composition; no text, logos or collage; clearly not a photograph.",
+    "sha256": "d2f898a3fc62364a225604a99683d177be1515a2b1ebe8104b2619ad282106a5"
+  },
+  {
+    "file": "yun-lai.webp",
+    "type": "AI-generated illustration",
+    "place": "ทะเลหมอกหยุนไหล",
+    "day": 3,
+    "tool": "built-in image_gen",
+    "note": "Interpretive illustration; not a photograph or exact architectural record.",
+    "prompt": "Landscape 3:2 gouache and fine ink travel illustration of ทะเลหมอกหยุนไหล; forest green, ochre and ivory palette; distinct destination composition; no text, logos or collage; clearly not a photograph.",
+    "sha256": "a222b8ac0e4ebbf49a2da5a16565bd045aaf5925538aedddcef09d423d4791af"
+  },
+  {
+    "file": "tham-lod.webp",
+    "type": "AI-generated illustration",
+    "place": "ถ้ำลอด",
+    "day": 3,
+    "tool": "built-in image_gen",
+    "note": "Interpretive illustration; not a photograph or exact architectural record.",
+    "prompt": "Landscape 3:2 gouache and fine ink travel illustration of ถ้ำลอด; forest green, ochre and ivory palette; distinct destination composition; no text, logos or collage; clearly not a photograph.",
+    "sha256": "49c474922ea04975324ee8d90e7738de815b24b592d073f8541e2fce9683329d"
+  },
+  {
+    "file": "ban-jabo.webp",
+    "type": "AI-generated illustration",
+    "place": "จุดชมวิวบ้านจ่าโบ่",
+    "day": 3,
+    "tool": "built-in image_gen",
+    "note": "Interpretive illustration; not a photograph or exact architectural record.",
+    "prompt": "Landscape 3:2 gouache and fine ink travel illustration of จุดชมวิวบ้านจ่าโบ่; forest green, ochre and ivory palette; distinct destination composition; no text, logos or collage; clearly not a photograph.",
+    "sha256": "08cdc86ae00e0cc268e5fd60efe0ea7d92323e6f643640017411dae4b3abfebc"
+  },
+  {
+    "file": "ban-rak-thai.webp",
+    "type": "AI-generated illustration",
+    "place": "บ้านรักไทย",
+    "day": 3,
+    "tool": "built-in image_gen",
+    "note": "Interpretive illustration; not a photograph or exact architectural record.",
+    "prompt": "Landscape 3:2 gouache and fine ink travel illustration of บ้านรักไทย; forest green, ochre and ivory palette; distinct destination composition; no text, logos or collage; clearly not a photograph.",
+    "sha256": "4526d7f9c683986db709ba53a6296621252b4481108516b4631d7dab3f66f20a"
+  },
+  {
+    "file": "pang-ung.webp",
+    "type": "AI-generated illustration",
+    "place": "ปางอุ๋ง",
+    "day": 4,
+    "tool": "built-in image_gen",
+    "note": "Interpretive illustration; not a photograph or exact architectural record.",
+    "prompt": "Landscape 3:2 gouache and fine ink travel illustration of ปางอุ๋ง; forest green, ochre and ivory palette; distinct destination composition; no text, logos or collage; clearly not a photograph.",
+    "sha256": "5cf4d081b4387d41baf230f55b2fe74b3ef1770de988931e0e37425196d4633f"
+  },
+  {
+    "file": "wat-jed-yod.webp",
+    "type": "AI-generated illustration",
+    "place": "วัดเจ็ดยอด",
+    "day": 5,
+    "tool": "built-in image_gen",
+    "note": "Interpretive illustration; not a photograph or exact architectural record.",
+    "prompt": "Landscape 3:2 gouache and fine ink travel illustration of วัดเจ็ดยอด; forest green, ochre and ivory palette; distinct destination composition; no text, logos or collage; clearly not a photograph.",
+    "sha256": "3209b0532a6788f44a3dcdb64f62f27a56dab782c0ca24423f8f0268e7117441"
+  },
+  {
+    "file": "warorot.webp",
+    "type": "AI-generated illustration",
+    "place": "ตลาดวโรรส",
+    "day": 5,
+    "tool": "built-in image_gen",
+    "note": "Interpretive illustration; not a photograph or exact architectural record.",
+    "prompt": "Landscape 3:2 gouache and fine ink travel illustration of ตลาดวโรรส; forest green, ochre and ivory palette; distinct destination composition; no text, logos or collage; clearly not a photograph.",
+    "sha256": "6c1c6413ca6c3679e1aa164f910bc0af5d975602a4f4489fbc4c6ae99ea64e14"
+  }
+]
